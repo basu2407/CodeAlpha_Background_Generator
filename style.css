@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css2?family=Cinzel:wght@800&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Kaushan+Script&display=swap');
+
+
+body {
+	font-family: 'Cinzel', serif;
+	color: rgba(0, 0, 0, 0.5);
+	text-align: center;
+	text-transform: uppercase;
+	letter-spacing: .5em;
+	top: 15%;
+	background: linear-gradient(to right, #243b47, #4fc2c4);
+}
+
+h1 {
+	font-family: 'Kaushan Script', cursive;
+	font-weight: 600;
+	font-size: 3.5em;
+	color: rgba(0, 0, 0, 0.5);
+	text-align: center;
+	text-transform: uppercase;
+	letter-spacing: .5em;
+	width: 100%;
+}
+h3 {
+	font-weight: 900;
+	font-size: 1.3em;
+	color: rgba(0, 0, 0, 0.5);
+	text-align: center;
+	text-transform: none;
+	letter-spacing: 0.01em;
+}
+
+button{
+    background: #9f9898;
+    /* color: white; */
+    border: 2px solid black;
+    border-radius: 7px;
+    font-size: 1rem;
+    padding: 6px 13px;
+    margin: 20px 0px;
+}
